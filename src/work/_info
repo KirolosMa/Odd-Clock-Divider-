@@ -1,0 +1,67 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+!s11f vlog QA Baseline Assertion: 2021.4 Beta - 4691355 2021.08, Aug 27 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/kimagdy/Desktop/Training/play_dround/clock_divider/src
+vcounter
+Z2 !s110 1630321824
+!i10b 1
+!s100 MRC]Z>99ghO1Dje7AK11I2
+IKdSWNd6Z5LkGcN>2]?Akc1
+R1
+w1630320195
+8counter.v
+Fcounter.v
+!i122 9
+L0 1 22
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;QA Baseline Assertion: 2021.4 Beta - 4691355;73
+r1
+!s85 0
+31
+Z5 !s108 1630321824.000000
+Z6 !s107 divider.v|counter.v|
+Z7 !s90 counter.v|divider.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+Tdivider_opt
+!s110 1630321827
+VoQz=hk@m:Ii]C2T?fHaX40
+04 11 4 work odd_divider fast 0
+!s124 OEM100
+o+acc
+R9
+ndivider_opt
+OL;O;QA Baseline Assertion: 2021.4 Beta - 4691355;73
+vodd_divider
+R2
+!i10b 1
+!s100 Y<Ro4K3l`5Ja[?fL1Rc>c1
+Il3C2iE5VHF0j2[:=NBZfU0
+R1
+w1630321819
+8divider.v
+Fdivider.v
+!i122 9
+L0 1 43
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R9
