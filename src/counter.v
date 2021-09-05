@@ -4,7 +4,7 @@ module counter #(parameter count_param=3, data_width=2 )(
 		   output reg [data_width-1:0] count);
 //----Counter reg---------//
 
-always@ (posedge clk or negedge rst) 
+always@ (posedge clk ) 
   begin
     if(!rst) 
 	  count <= 'd0;
